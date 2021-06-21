@@ -55,7 +55,5 @@ def getfib2(num):
 
 As we can see the first approach takes 5.51 seconds to deliver the output while the second approach takes 3.5 micro-seconds to do the same operation. 
 
+Thus we can say that the faster approach is using loop.
 
-```python
-
-```
